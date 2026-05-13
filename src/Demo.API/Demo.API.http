@@ -1,0 +1,6 @@
+@Demo.API_HostAddress = http://localhost:5208
+
+GET Demo.API_HostAddress/
+Accept: application/json
+
+###
